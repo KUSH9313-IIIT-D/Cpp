@@ -8,8 +8,9 @@
 using namespace std;
 
 int main(){
+	cout << "Hello\n";
 	string str;
 	cin >> str;
 	cout << str;
-	return(0);
+	return(0) ;
 }
